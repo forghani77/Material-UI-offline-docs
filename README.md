@@ -4,7 +4,7 @@ static build of https://material-ui.com/ website
 
 ---
 
-#Installation 
+# Installation 
 clone the repository and just spin up a http server in the directory
 ```bash
 npm i -g http-server
